@@ -32,7 +32,7 @@ LABELLING
 - Label each image by its filename only, e.g. dune-saffron-045.png. No text is burned into the images.
 
 CONSISTENCY
-- Keep everything except the sofa's rotation exactly the same across all 24 images. If any frame drifts in lighting, framing, size or fabric, fix the cause and re-render rather than patching that one image.
+- Keep everything except the sofa's rotation exactly the same across all 24 images. If any frame drifts in lighting, framing, size or fabric, regenerate that angle before moving on.
 
 LATER
 - A second set in ONYX black bouclé will follow, identical in every respect except the upholstery colour.
